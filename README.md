@@ -1,5 +1,5 @@
 <h1 align="center">Data Structures From Scratch</h1>
-<h3 align="center"> Implementations of Classic Data Structures in Python, C++ and Java</h3>
+<h3 align="center">🚀 Implementations of Classic Data Structures in Python, C++ and Java</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/OT1devl/Data-Structures-From-Scratch?style=flat" alt="Languages" />
