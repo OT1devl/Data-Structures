@@ -10,7 +10,7 @@
 ---
 
 ### 📜 **About the Repository**
-This repository contains implementations of various classic data structures from scratch, written in **Python**, **C++**, and **Java**. The goal is to help users understand the fundamental principles of data structures by building them manually, without relying on external libraries or frameworks.
+This repository contains implementations of various classic data structures from scratch, written in **Python**, **C++**, and **Java**. The goal is to help users understand the fundamental principles of data structures by building them manually.
 
 ---
 
