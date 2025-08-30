@@ -45,8 +45,3 @@ By exploring this repository, you'll be able to:
 
 ### 🚀 **Future Plans**
 - Provide optimized versions for each language.
-
----
-
-### 📱 **Contact**
-📧 **Email:** *[otidevv1@gmail.com](mailto:otidevv1@gmail.com)*
